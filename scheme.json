@@ -1,0 +1,42 @@
+{
+  "name": "NodeClusterPlatform",
+
+  "buildDir": "bin",
+
+  "compilerOptions": {
+    "compilationLevel": "SIMPLE_OPTIMIZATIONS",
+    "warningLevel": "VERBOSE",
+    "language": "ECMASCRIPT5",
+    "formatting": ""
+  },
+
+  "srcDir": "lib",
+  "rootNamespace": "ncp",
+
+  "modules": {
+    "ncp": {
+      "src": [
+        "ncp.js",
+        "multicast-message.js",
+        "net/udp/udp.js",
+        "net/udp/multicast-agent.js",
+        "net/ws/request.js",
+        "net/ws/i-client.js",
+        "net/ws/client.js",
+        "net/ws/i-server.js",
+        "net/ws/server.js",
+        "act/ws/ws.js",
+        "agent.js"
+      ]
+    }
+  },
+
+  "externsDir": "externs",
+
+  "deps": {
+    "semantic.fm": "https://github.com/kalachevmax/semantic.fm",
+    "semantic.dm": "https://github.com/kalachevmax/semantic.dm",
+    "semantic.node.actions": "https://github.com/kalachevmax/semantic.node.actions",
+    "ws": "https://github.com/einaros/ws.git"
+  }
+}

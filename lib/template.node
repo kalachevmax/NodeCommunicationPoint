@@ -1,0 +1,1 @@
+"var path = require('path');var net = require('net');var http = require('http');var dgram = require('dgram');var ws = require('../deps/ws');var fm = require('../deps/semantic.fm/bin/semantics.fm.js');var dm = require('../deps/semantic.dm/bin/semantics.dm.js');var fm = require('../deps/semantic.node.actions/bin/semantics.node.actions.js');%output%module.exports = ncp;"
