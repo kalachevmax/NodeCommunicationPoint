@@ -17,9 +17,9 @@
     "ncp": {
       "src": [
         "ncp.js",
-        "multicast-message.js",
         "net/udp/udp.js",
         "net/udp/multicast-agent.js",
+        "net/udp/multicast-message.js",
         "net/ws/request.js",
         "net/ws/i-client.js",
         "net/ws/client.js",
