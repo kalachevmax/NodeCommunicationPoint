@@ -28,6 +28,7 @@
         "act/ws/ws.js",
         "db/db.js",
         "db/i-client.js",
+        "db/mongo-client.js",
         "agent.js"
       ]
     }
