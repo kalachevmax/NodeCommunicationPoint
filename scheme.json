@@ -26,6 +26,8 @@
         "net/ws/i-server.js",
         "net/ws/server.js",
         "act/ws/ws.js",
+        "db/db.js",
+        "db/i-client.js",
         "agent.js"
       ]
     }
