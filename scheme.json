@@ -27,8 +27,10 @@
         "net/ws/server.js",
         "act/ws/ws.js",
         "db/db.js",
+        "db/i-request.js",
         "db/i-client.js",
-        "db/mongo-client.js",
+        "db/mongo/request.js",
+        "db/mongo/client.js",
         "agent.js"
       ]
     }
