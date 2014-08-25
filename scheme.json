@@ -29,7 +29,11 @@
         "db/db.js",
         "db/i-request.js",
         "db/i-client.js",
+        "db/mongo/mongo.js",
+        "db/mongo/i-request.js",
         "db/mongo/request.js",
+        "db/mongo/set-request.js",
+        "db/mongo/get-request.js",
         "db/mongo/client.js",
         "agent.js"
       ]
