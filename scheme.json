@@ -29,6 +29,7 @@
         "db/db.js",
         "db/i-request.js",
         "db/i-client.js",
+        "db/request-type.js",
         "db/mongo/mongo.js",
         "db/mongo/i-request.js",
         "db/mongo/request.js",
