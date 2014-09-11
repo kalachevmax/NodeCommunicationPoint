@@ -36,6 +36,8 @@
         "db/mongo/set-request.js",
         "db/mongo/get-request.js",
         "db/mongo/client.js",
+        "cron/i-task.js",
+        "cron/cron.js",
         "agent.js"
       ]
     }
@@ -46,6 +48,7 @@
   "deps": {
     "semantic.fm": "https://github.com/kalachevmax/semantic.fm",
     "semantic.dm": "https://github.com/kalachevmax/semantic.dm",
+    "semantic.ds": "https://github.com/kalachevmax/semantic.ds",
     "semantic.node.actions": "https://github.com/kalachevmax/semantic.node.actions",
     "ws": "https://github.com/einaros/ws.git"
   }
