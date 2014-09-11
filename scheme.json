@@ -38,6 +38,12 @@
         "db/mongo/client.js",
         "cron/i-task.js",
         "cron/cron.js",
+        "tasks/i-task.js",
+        "tasks/i-context.js",
+        "tasks/task.js",
+        "tasks/context.js",
+        "tasks/http/context.js",
+        "tasks/http/http.js",
         "agent.js"
       ]
     }
