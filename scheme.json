@@ -25,6 +25,8 @@
         "net/ws/client.js",
         "net/ws/i-server.js",
         "net/ws/server.js",
+        "net/http/i-server.js",
+        "net/http/server.js",
         "act/ws/ws.js",
         "db/db.js",
         "db/i-request.js",
